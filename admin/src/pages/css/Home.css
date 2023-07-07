@@ -1,0 +1,30 @@
+.show-content{
+    display: block;
+}
+.content{
+    display: none;
+}
+.nav-underline{
+    margin-inline: 8.594vw;
+}
+.nav-underline .nav-link{
+    margin-right: 50px;
+}
+
+.inline_navs span{
+    font-size: 18px;
+    color: black;
+}
+.navs_tabs{
+    padding-top: 60px;
+    background-color:  #F1F2F6;
+
+}
+@media(max-width:977px){
+    .nav-underline{
+        justify-content: center;
+    } 
+    .nav-underline .nav-link{
+        padding-right: 0px !important;
+    }
+}

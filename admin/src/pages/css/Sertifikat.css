@@ -1,0 +1,49 @@
+.sertificat_cards{
+    margin-top: 55px;
+    margin-left: 8.594vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.sertificat_card{
+    position: relative;
+    margin-right: 30px;
+    width: 349px;
+    height: 239px;
+    border-radius: 4px;
+    background: var(--white, #FFF);
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.10);
+}
+.sertificat_card img{
+    margin-top: 4px;
+    margin-left: 5px;
+    border-radius: 4px;
+}
+.sertificat_card h5{
+    margin-left: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 0px !important;
+}
+.sertificat_card p{
+    margin-left: 8px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #9DA7BB;
+}
+.das_btn{
+    position: absolute;
+    right: 8px;
+    bottom: 13px;
+    width: 66px;
+height: 20px;
+font-size: 12px;
+font-weight: 400;
+text-align: center;
+justify-content: center;
+border-radius: 2px;
+color: white;
+background: #10C8A0;
+}
+@media(max-width:977px){
+    
+}
