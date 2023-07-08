@@ -65,6 +65,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     gap: 30px;
+    margin-bottom: 100px;
 }
 .kurs_card{
     position: relative;

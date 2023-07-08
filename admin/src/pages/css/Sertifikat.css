@@ -45,5 +45,9 @@ color: white;
 background: #10C8A0;
 }
 @media(max-width:977px){
-    
+    .sertificat_cards{
+        display: flex;
+        justify-content: center;
+        margin-left: 0px !important;
+    }
 }
